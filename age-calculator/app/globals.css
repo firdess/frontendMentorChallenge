@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+
+.empty {
+  @apply border-light-red opacity-60 
+}
+.empty-text{
+  @apply text-xs pt-1 text-light-red opacity-60 italic
+}
+
+@tailwind utilities;
