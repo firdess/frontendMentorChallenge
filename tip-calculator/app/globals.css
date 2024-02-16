@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+
+.input {
+  @apply bg-dark-cyan h-[45px] text-very-light-grayish-cyan cursor-pointer  hover:bg-strong-cyan hover:text-dark-cyan font-bold rounded-md flex items-center justify-center
+}
+
+@tailwind utilities;
