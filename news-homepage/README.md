@@ -31,7 +31,7 @@ Users should be able to:
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 - [Next.js](https://nextjs.org/) - React framework
-- [TailwindCss]((https://tailwindcss.com/)) - For styles
+- [Tailwindcss]((https://tailwindcss.com/)) - For styles
 
 
 
