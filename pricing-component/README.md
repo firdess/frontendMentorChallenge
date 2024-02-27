@@ -23,8 +23,8 @@ ot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/firdess/frontendMentorChallenge/tree/main/pricing-component]
+- Live Site URL: [(frontend-mentor-challenge-8yf96q0um-firdess.vercel.app)]
 
 
 
