@@ -15,7 +15,7 @@ Users should be able to:
 ### Screenshot
 
 <img width="1428" alt="Screenshot 2024-02-27 at 15 13 31" src="https://github.com/firdess/frontendMentorChallenge/assets/106804722/8c4ec0b9-1b0d-4acc-90af-2cf814828c94">
-ot.jpg)
+
 <img width="463" alt="Screenshot 2024-02-27 at 15 13 17" src="https://github.com/firdess/frontendMentorChallenge/assets/106804722/8ce46579-5d40-4647-acf6-ffb32cf58078">
 
 
