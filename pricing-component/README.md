@@ -24,7 +24,7 @@ ot.jpg)
 ### Links
 
 - Solution URL: [https://github.com/firdess/frontendMentorChallenge/tree/main/pricing-component]
-- Live Site URL: [(frontend-mentor-challenge-8yf96q0um-firdess.vercel.app)]
+- Live Site URL: [https://frontend-mentor-challenge-8yf96q0um-firdess.vercel.app/]
 
 
 
